@@ -42,9 +42,8 @@
     ]
   },
   "resolutions": {
-    "webpack": "5.41.1"
+    "webpack": "^5.64.4"
   },
-  "packageManager": "yarn@3.1.1",
   "devDependencies": {
     "mini-css-extract-plugin": "2.4.5"
   }
